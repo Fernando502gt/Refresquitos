@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Permanent+Marker&family=Roboto&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Fredoka+One&display=swap');
+
+body{
+    background: #6b6b6b;
+}
+.bloque{
+   text-align: center;
+    background: rgb(51, 85, 100);
+    color: rgb(253, 253, 253);
+    padding: 10px 30px;
+    text-decoration: none;
+    font-family: 'Architects Daughter', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
+.bloque:hover {
+    background:darkgoldenrod
+}
+
+h1{
+   background: rgb(24, 24, 24);
+    text-align: center;
+    color: floralwhite;
+    font-family: 'Alfa Slab One', cursive;
+font-family: 'Fredoka One', cursive;
+}
+h2{
+ color: rgb(255, 247, 247);
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.img1{
+    height: 400px;
+    width: 400px;
+}
+
+.img{
+    height: 500px;
+    width: 400px;
+}
+
+footer{
+
+    padding: 2rem 0;
+    text-align:center ;
+    margin-top: 6rem;
+}
+
+
+
